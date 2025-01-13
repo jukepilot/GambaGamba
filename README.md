@@ -1,0 +1,2 @@
+# GambaGamba
+Go gambling
